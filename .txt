@@ -1,5 +1,4 @@
 git add . 
 git commit -m ''
 git push -u origin main 
-https://github.com/Nyaseswi/reactTutorials
-https://github.com/Nyaseswi/reactJune-.git
+https://github.com/Nyaseswi/reactAdminPanelFirebase
